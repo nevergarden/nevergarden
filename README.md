@@ -1,0 +1,3 @@
+- 💗 Nevergarden desu!
+- 🎮 I'm a game developer
+- 🌱 I work either on creating new mechanics or graphic libraries
