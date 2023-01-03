@@ -11,13 +11,13 @@ Archlinux is actually one of the best linux distros I've ever worked with, used 
 `pacman -S archlinux`
 
 For desktop environment I use [i3wm](https://i3wm.org/), really good stuff with terminal tiling, opening a lot of terminals at once and moving them around. <img align='right' src="https://i3wm.org/img/logo.svg" width="200">  
-+ Unity crashes with i3wm when tiled a lot. (Don't use Unity please...)
++ Unity crashes with i3wm while it's tiled a lot. (Don't use Unity please...)
 
 
 <div align="center">
 <img src="http://i.imgur.com/wa666xg.png" width="400"/>
 <br>
-<small> I think Gruvbox is a the best colorscheme available </small>
+<small> I think Gruvbox is the best colorscheme available </small>
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@ For desktop environment I use [i3wm](https://i3wm.org/), really good stuff with 
 </div>
 
 ## Tech Stack
-I usually code in **C** and **Haxe**. Wonderful language they are.  
+I usually code in **C** and **Haxe**. Wonderful languages they are.  
 ### Languages
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
